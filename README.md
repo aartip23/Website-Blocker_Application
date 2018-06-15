@@ -10,5 +10,5 @@ For Mac users : "etc/hosts"
 
 # Scheduling the python program on Linux/Mac:
 In terminal:
-sudo crontab -e :
-@reboot python3 websiteBlocker.py
+1. sudo crontab -e 
+2. @reboot python3 websiteBlocker.py
